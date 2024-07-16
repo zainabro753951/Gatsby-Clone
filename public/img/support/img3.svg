@@ -1,0 +1,74 @@
+<svg width="210" height="211" viewBox="0 0 210 211" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clipPath="url(#clip0)">
+    <path d="M115.529 0H92V23.5426H115.529V0Z" fill="#FFE4A1" />
+    <path d="M139.529 24H116V47.5425H139.529V24Z" fill="#FB8400" />
+    <path d="M92.5294 165H69V188.543H92.5294V165Z" fill="#FFD280" />
+    <path d="M21.7646 36.2881V153.321" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M45.2939 23.8369V178.041" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M68.8242 45.5V211" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M68.8242 12.0654V47.3792" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M92.3525 47.5V200.491" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M92 0L92 47" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M115.883 47.5V200.492" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M115.883 0V47.4647" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M139.412 46.5V188.635" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M139.412 12.0654V47.6735" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M162.94 36.1963V200.491" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M186.471 23.8369V178.041" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M174.706 23.9219H33.5293" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M115.882 47.4648H10" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M174.706 47.4648H115.883" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M45.2941 71.0068H0" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M209.117 71.0068H44" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M187 94.5498H21.7646" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M186.176 94.5498H162.94" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M45.2941 118.093H10" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M198.235 118.093H20" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M209.118 141.635H33.5293" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M198.235 165.178H10" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <path d="M186.471 188.72H21.7646" stroke="#F5F5F5" strokeMiterlimit="10" />
+    <circle cx="48.5" cy="147.5" r="8.5" fill="#FFE4A1" />
+    <circle cx="179.5" cy="31.5" r="20.5" fill="#FFF4DB" />
+    <circle cx="69" cy="122" r="4" fill="#FFD280" />
+    <circle cx="117" cy="54" r="4" fill="#FFEDBF" />
+    <circle cx="195" cy="176" r="4" fill="#FB8400" />
+    <path
+      d="M139 92C123.599 92 111 104.599 111 120C111 135.401 123.599 148 139 148C154.401 148 167 135.401 167 120C167 104.599 154.401 92 139 92Z"
+      fill="#FB8400" />
+    <path
+      d="M123.399 135.598C119.198 131.397 117 125.797 117 120.396L138.8 141.997C133.2 141.797 127.6 139.799 123.399 135.598Z"
+      fill="white" />
+    <path
+      d="M143.801 141.397L117.6 115.196C119.798 105.395 128.6 97.9961 139 97.9961C146.399 97.9961 152.798 101.598 156.8 106.998L153.798 109.596C150.396 104.995 144.996 101.997 138.996 101.997C131.198 101.997 124.594 106.998 121.996 113.997L144.996 136.996C150.796 134.998 155.197 129.997 156.596 123.998H146.994V119.996H160.996C161.001 130.397 153.602 139.199 143.801 141.397Z"
+      fill="white" />
+    <circle cx="139" cy="120" r="43.25" stroke="#FFEDBF" strokeWidth="1.5" />
+    <circle cx="139" cy="120" r="55.25" stroke="#FFF4DB" strokeWidth="1.5" />
+    <circle cx="139" cy="120" r="63.25" stroke="#FFFCF7" strokeWidth="1.5" />
+    <circle cx="194" cy="126" r="2" fill="#FFE4A1" />
+    <circle cx="90" cy="94" r="2" fill="#FB8400" />
+    <circle cx="109" cy="89" r="2" fill="#FFF4DB" />
+    <circle cx="125" cy="174" r="2" fill="#FFEDBF" />
+    <circle cx="174" cy="94" r="2" fill="#FFD280" />
+    <circle cx="163" cy="70" r="4" fill="#FFE4A1" />
+    <circle cx="163" cy="156" r="2" fill="#FB8400" />
+    <circle cx="83" cy="150" r="2" fill="#FFE4A1" />
+    <circle cx="199.5" cy="101" r="2" fill="#FFF4DB" />
+    <path d="M64.0848 98.6039V104.836H18.6025V37.2324H24.9145" fill="#FFF4DB" />
+    <path d="M64.0848 98.6039V104.836H18.6025V37.2324H24.9145" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M70.3974 42.2672V98.6033H24.915V31H58.9851L70.3974 42.2672Z" fill="white" stroke="#FB8400" strokeWidth="3"
+      strokeMiterlimit="10" />
+    <path d="M63.1164 50.7217H32.1943" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M63.1164 61.9883H32.1943" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M63.1164 73.2559H32.1943" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M51.3708 84.5225H32.1943" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M58.9844 31V42.2672H70.3966" fill="#FFE4A1" />
+    <path d="M58.9844 31V42.2672H70.3966" stroke="#FB8400" strokeWidth="3" strokeMiterlimit="10" />
+    <path d="M70.3974 42.2672V98.6033H24.915V31H58.9851L70.3974 42.2672Z" stroke="#FB8400" strokeWidth="3"
+      strokeMiterlimit="10" />
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="210" height="211" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
